@@ -58,3 +58,8 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pancanurull&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+
+### 🤝🏻 &nbsp;Connect with Me
+<a href="https://www.instagram.com/pncnurulhy/"><img src="https://img.shields.io/badge/-@pncnurulhy__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/pancanurulhayati/"><img src="https://img.shields.io/badge/-Panca%20Nurul%20Hayati-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
