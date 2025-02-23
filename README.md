@@ -1,4 +1,4 @@
-## Hi Everyone 👋 My Name **Panca Nurul Hayati** ✨
+## Hi Everyone👋 My Name **Panca Nurul Hayati** ✨
 
 <!--
 **pancanurull/pancanurull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 🎓 &nbsp;I'm currently studying Information System at the Open University in Indonesia.\
 🌱 &nbsp;I'm on track for learning more about UI/UX Design, Front-End and Back-End Developement.\
 ✍️ &nbsp;In my free time, I pursue Illustrator Design as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at pancanurul09@gmail.com ! I'll try to respond as soon as I can.\  
 📄 &nbsp;Please have a look at my [Linkedln]({https://www.linkedin.com/in/pancanurulhayati/) for more details about me. I'm open to feedback and suggestions! 😄
 
