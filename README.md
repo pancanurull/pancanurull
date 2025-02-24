@@ -1,4 +1,4 @@
-## Hi Everyone👋 My Name **Panca Nurul Hayati** ✨
+## Hi Everyone👋 I'm **Panca Nurul Hayati** ✨
 
 <!--
 **pancanurull/pancanurull** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
