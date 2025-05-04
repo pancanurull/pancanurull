@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 🎓 &nbsp;I'm currently studying Information System at the Open University in Indonesia.\
 🌱 &nbsp;I'm on track for learning more about UI/UX Design, Front-End and Back-End Developement.\
 ✍️ &nbsp;In my free time, I pursue Illustrator Design as hobbies/side hustles.\
-✉️ &nbsp;You can shoot me an email at pancanurul09@gmail.com ! I'll try to respond as soon as I can.\  
+✉️ &nbsp;You can shoot me an email at pancanurul09@gmail.com ! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Linkedln]({https://www.linkedin.com/in/pancanurulhayati/) for more details about me. I'm open to feedback and suggestions! 😄
 
 <br>
